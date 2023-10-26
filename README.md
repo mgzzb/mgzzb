@@ -5,7 +5,8 @@ I am an undergraduate student from Mexico studying Computer Science with a minor
 Projects:
 
 * [Python + Django Application](https://github.com/gelbling/TinDev)
-* [Operating Systems Projects](https://github.com/dbrahmbh/OSDreamTeam)
+* [Operating Systems Projects](https://github.com/dbrahmbh/OSDreamTeam)\
+* [Theory of Computing](https://github.com/ND-CSE-30151/there-exists-a-team)
 
 <!--
 **mgzzb/mgzzb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
