@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an undergraduate student from Mexico studying Computer Science with a minor in Engineering Corporate Practice at the University of Notre Dame. I am passionate about new technologies and exploring how they can help solve problems and facilitate life. I look forward to pursuing a career in the engineering industry, Software Development, or technology consulting sector.
+I am an undergraduate student from Mexico studying Computer Science with a minor in Engineering Corporate Practice at the University of Notre Dame. I am passionate about new technologies and exploring how they can help solve problems and facilitate life. I look forward to pursuing a career in the engineering industry as a Software Engineer. 
 
 Projects:
 
